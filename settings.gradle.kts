@@ -21,4 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "touch by touch"
 include(":app")
+include(":act3")
+include(":app")
  
